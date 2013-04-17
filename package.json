@@ -1,0 +1,26 @@
+{
+  "name": "bliss-express",
+  "description": "Bliss for Express.js",
+  "version": "1.0.1",
+  "author": {
+    "name": "Andre Ventura",
+    "email": "andreventuravale@gmail.com"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:andreventuravale/bliss-express.git"
+    }
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "bliss": ">=1.0.1"
+  },
+  "devDependencies": {
+    "express": "3"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "bliss-express@1.0.1",
+  "_from": "bliss-express@"
+}
