@@ -1,7 +1,6 @@
+### Bliss for Express
 
-### Bliss for Express.js
-
-##### This project is an integration of the amazing [Bliss Templating System](https://github.com/cstivers78/bliss) for [Express JS](https://github.com/visionmedia/express).
+##### This project is an integration of the amazing [Bliss Templating System](https://github.com/cstivers78/bliss) for [Express](https://github.com/visionmedia/express).
 
 Usage:
 ```javascript
