@@ -9,7 +9,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "git@github.com:andreventuravale/bliss-express.git"
+      "url": "git@github.com:cstivers78/bliss-express.git"
     }
   ],
   "main": "index.js",
