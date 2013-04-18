@@ -1,7 +1,5 @@
-
 /*!
  * This project is an integration of the amazing [Bliss Templating System](https://github.com/cstivers78/bliss) for [Express](https://github.com/visionmedia/express).
- * Copyright (c) 2013 Andre Ventura (http://github.com/andreventuravale)
 */
 
 var Bliss;
